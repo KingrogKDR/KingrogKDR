@@ -1,6 +1,6 @@
 # Hi there, I'm Abhishek Saikia! 👋
 
-I'm a passionate developer interested in building efficient solutions using Golang and TypeScript. I enjoy solving complex problems and continuously learning new technologies.
+I'm a passionate developer interested in building efficient solutions using Golang and TypeScript. I enjoy solving complex problems and continuously learning new technologies. I'm also a cybersecurity enthusiast learning Python, Linux and Sql.
 
 ## 🚀 Tech Stack
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
