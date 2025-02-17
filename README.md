@@ -11,6 +11,13 @@ I'm a passionate developer interested in building efficient solutions using Gola
 - [my-http-server](https://github.com/KingrogKDR/my-http-server) - HTTP server in Golang
 - [storeDoc](https://github.com/KingrogKDR/storeDoc) - A free storage solution online [Live](https://store-hxsj5u5oa-kingrogkdrs-projects.vercel.app)
 
+
+## 🌱 Current Learning
+I'm currently pursuing the Google Cybersecurity course, learning:
+- Python
+- Linux
+- SQL
+
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KingrogKDR&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KingrogKDR&layout=compact&theme=radical)
