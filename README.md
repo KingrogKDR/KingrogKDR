@@ -1,6 +1,6 @@
 # Hi there, I'm Abhishek Saikia! 👋
 
-I'm a passionate developer interested in building efficient solutions using Golang and TypeScript. I enjoy solving complex problems and continuously learning new technologies. I'm also a cybersecurity enthusiast learning Python, Linux and Sql.
+I'm a passionate developer interested in building efficient solutions using Golang and TypeScript. I enjoy solving complex problems and continuously learning new technologies.
 
 ## 🚀 Tech Stack
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -13,10 +13,15 @@ I'm a passionate developer interested in building efficient solutions using Gola
 
 
 ## 🌱 Current Learning
-I'm currently pursuing the Google Cybersecurity course, learning:
+I'm currently pursuing the [Google Cybersecurity course](https://grow.google/certificates/cybersecurity/), learning:
 - Python
 - Linux
 - SQL
+
+### 🎯 Goals
+- Complete the course by the end of March
+- Build practical cybersecurity projects
+- Gain hands-on experience in threat analysis and network security
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KingrogKDR&show_icons=true&theme=radical)
