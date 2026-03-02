@@ -1,28 +1,29 @@
 # Abhishek Saikia
 
-Backend Engineer (Go) focused on building concurrent, observable, and production-ready systems.
+**Backend Engineer | Go | Distributed Systems | Observability**
 
-Experience working on proxy-layer observability, upstream dependency handling, caching systems, and distributed concurrency patterns.
+I build concurrent, cache-aware, and production-oriented backend systems.  
+My work focuses on performance, reliability, and clear system boundaries.
 
 ---
 
-## Core Competencies
+## ⚙️ Technical Focus
 
-**Languages**
+### Languages
 - Go
 - TypeScript
 - JavaScript
 - Python
 
-**Systems & Backend**
+### Systems Engineering
 - Concurrent service design (goroutines, channels, singleflight)
-- Cache-aware architectures
-- Upstream dependency management
-- Observability (OpenCensus, Prometheus)
-- Latency instrumentation & reliability metrics
-- REST API design
+- Priority queue design & scheduling
+- Cache-layer architecture
+- Upstream dependency reliability
+- Metrics & observability (OpenCensus, Prometheus)
+- Latency instrumentation with exponential histograms
 
-**Infrastructure**
+### Infrastructure
 - Docker
 - Redis
 - Prometheus
@@ -30,60 +31,68 @@ Experience working on proxy-layer observability, upstream dependency handling, c
 
 ---
 
-## Pinned Projects
+## 🚀 Pinned Projects
 
-### 1. Distributed Web Crawler (Go)
-A concurrent crawler with priority queues, URL normalization pipeline, and fetch deduplication.
+### 🔎 Dev_Search — Developer-Focused Search Engine (Go)
 
-**Key Concepts**
-- Worker pools & goroutine orchestration
-- Priority-based fetch queues
-- Robots.txt handling
+A search engine built specifically for developers, focused on high-signal technical content.
+
+**Architecture Highlights**
+- Frontier queue with priority scheduling
+- URL normalization pipeline
+- Fetch deduplication via concurrency control
+- Robots.txt handling & rate control
 - Content similarity detection
-- Storage abstraction for HTML and metadata
+- Storage abstraction for HTML + metadata
 
-> Focused on concurrency control, queue design, and scalable fetch architecture.
+> Designed around scalable crawling, queue efficiency, and developer-centric ranking.
 
 ---
 
-### 2. VaultGuard – Privacy-First Data Sharing Platform
-Backend system implementing tokenization, field-level encryption, TTL-based access, and policy enforcement.
+### 🔐 VaultGuard — Privacy-First Data Sharing Platform
 
-**Key Concepts**
-- Per-field encryption keys
+A backend system implementing secure, consent-driven data access.
+
+**Key Features**
+- Field-level encryption with per-field keys
 - TTL-based token expiration
-- Consent-driven access control
-- Zero-knowledge proof integration (Circom)
-- Policy enforcement via Open Policy Agent
+- Consent enforcement
+- Policy engine integration (Open Policy Agent)
+- Zero-knowledge proof verification (Circom)
 
-> Designed to isolate sensitive data while enabling controlled third-party access.
+> Focused on secure data isolation and controlled third-party access.
 
 ---
 
-### 3. Proxy Observability (Open Source Contribution)
-Added proxy-layer observability metrics to a Go module proxy.
+### 📊 Proxy Observability (Open Source Contribution)
 
-**Contributions**
-- Cache hit/miss metrics
-- Upstream success/failure counters
-- Exponential latency histograms
+Added proxy-layer metrics to a Go module proxy.
+
+**Implemented**
+- Cache hit/miss counters
+- Upstream success/failure metrics
+- Network latency histograms (exponential buckets)
 - Low-cardinality metric design
 - Unit-tested OpenCensus instrumentation
 
-> Focused on production-grade observability and dependency reliability.
+> Production-grade observability without control-flow side effects.
 
 ---
 
-## GitHub Activity
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KingrogKDR&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingrogKDR&layout=compact&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KingrogKDR&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingrogKDR&layout=compact&theme=transparent&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KingrogKDR&theme=transparent&hide_border=true" height="170"/>
 </p>
 
 ---
 
-## Contact
+## 📬 Connect
 
 - LinkedIn: https://www.linkedin.com/in/abhishek-saikia-268832279/
 - Email: abhisheksaikia766@gmail.com
