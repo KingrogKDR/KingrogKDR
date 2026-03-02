@@ -78,19 +78,7 @@
 
 <br/>
 
----
-
 ## 📈 GitHub Stats
-
-<br/>
-
-<p align="center">
-  <a href="https://github.com/KingrogKDR">
-    <img height="195" src="https://github-readme-stats.vercel.app/api?username=KingrogKDR&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&border_radius=12" />
-    &nbsp;&nbsp;
-    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingrogKDR&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=12" />
-  </a>
-</p>
 
 <br/>
 
