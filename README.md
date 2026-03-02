@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Abhishek%20Saikia&fontSize=52&fontColor=ffffff&fontAlignY=55&desc=Backend%20Engineer%20%C2%B7%20Go%20%C2%B7%20Distributed%20Systems%20%C2%B7%20Observability&descSize=16&descAlignY=75&descColor=94a3b8&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Abhishek%20Saikia&fontSize=52&fontColor=ffffff&fontAlignY=55&desc=Backend%20Engineer%20%C2%B7%20Go%20%C2%B7%20Distributed%20Systems&descSize=16&descAlignY=75&descColor=94a3b8&animation=fadeIn" width="100%"/>
 
 <br/>
 
 <p align="center">
-  <em>I build concurrent, cache-aware, and production-oriented backend systems.</em><br/>
+  <em>I think in systems and take ownership of my work.</em><br/>
   <em>My work focuses on performance, reliability, and clear system boundaries.</em>
 </p>
 
@@ -29,7 +29,6 @@
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -46,7 +45,6 @@
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
