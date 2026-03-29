@@ -14,9 +14,9 @@ Here is my portfolio: https://abhisheksaikia.netlify.app
 
 How to reach me: 
 
-Email me at: abhisheksaikia766@gmail.com
-[LinkedIn](https://www.linkedin.com/in/abhishek-saikia-268832279/)
-[X/Twitter](https://x.com/king_rog234)
+- Email me at: abhisheksaikia766@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/abhishek-saikia-268832279/)
+- [X/Twitter](https://x.com/king_rog234)
 
 <!--
 **KingrogKDR/KingrogKDR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
