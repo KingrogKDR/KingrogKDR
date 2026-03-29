@@ -6,7 +6,7 @@ I am a fresh computer science graduate for the year 2026, currently based in Ind
 
 I am looking for backend and devops roles in tech. 
 
-I am comfortable in Golang(Go), Typescript, Python and Java. 
+I am comfortable in Golang(Go), Typescript, Python and C. 
 
 I love tinkering with the internals of systems and reimplementing them through system thinking and reverse engineering. Especially with the advent of AI, I believe designing useful, efficient and secure systems matter more than ever. 
 
