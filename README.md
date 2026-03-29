@@ -10,6 +10,8 @@ I love tinkering with the internals of systems and reimplementing them through s
 
 Here is my portfolio: https://abhisheksaikia.netlify.app
 
+Check out my blogs here: https://kingrogkdr.github.io/index.html 
+
 How to reach me: 
 
 - Email me at: abhisheksaikia766@gmail.com
