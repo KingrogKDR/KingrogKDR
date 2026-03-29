@@ -16,9 +16,9 @@ How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/abhishek-saikia-268832279/)
 - [X/Twitter](https://x.com/king_rog234)
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
-### 💬 Languages
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -26,7 +26,7 @@ How to reach me:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
-### 🧰 Tools & Technologies
+### Tools & Technologies
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
@@ -40,7 +40,7 @@ How to reach me:
 
 ---
 
-## 👀 Profile Views
+## Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KingrogKDR&style=flat&color=blue)
 
