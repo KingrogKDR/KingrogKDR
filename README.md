@@ -2,7 +2,7 @@
 
 My name is Abhishek Saikia. 
 
-I am a fresh computer science graduate for the year 2026, currently based in India.
+I am a final year Computer science, currently based in India.
 
 I am looking for backend and devops roles in tech. 
 
