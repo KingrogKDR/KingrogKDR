@@ -2,13 +2,9 @@
 
 My name is Abhishek Saikia. 
 
-I am a final year Computer science student, currently based in India.
-
-I am looking for backend and infra roles in tech. 
+I like backend and infra. 
 
 I love tinkering with the internals of systems and reimplementing them through system thinking and reverse engineering. Especially with the advent of AI, I believe designing useful, efficient and secure systems matter more than ever. 
-
-Here is my portfolio: https://abhisheksaikia.netlify.app
 
 Check out my blogs here: https://kingrogkdr.github.io
 
