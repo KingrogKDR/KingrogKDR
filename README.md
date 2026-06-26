@@ -4,7 +4,7 @@ My name is Abhishek Saikia.
 
 I like backend and infra. 
 
-I love tinkering with the internals of systems and reimplementing them through system thinking and reverse engineering. Especially with the advent of AI, I believe designing useful, efficient and secure systems matter more than ever. 
+I love tinkering with the internals of systems and reimplementing them through system thinking and reverse engineering.
 
 Check out my blogs here: https://kingrogkdr.github.io
 
